@@ -1,0 +1,8 @@
+Method,End-2026 Target,95% CI Lower,95% CI Upper
+Historical Average,$781.41,$550.72,$1108.73
+Linear Trend,$729.44,$644.27,$814.60
+ARIMA-GARCH,$782.82,$575.98,$1063.94
+Monte Carlo (GBM),$782.40,$542.48,$1103.80
+Exponential Smoothing,$736.20,$613.43,$858.97
+Regime Switching,$920.23,$752.83,$1124.86
+Average,$788.75,-,-
